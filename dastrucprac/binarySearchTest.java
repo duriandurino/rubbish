@@ -2,18 +2,18 @@ import java.util.*;
 
 public class binarySearchTest{
     public static int binarySearch(int array[], int x, int arrSize){
-        int l = 0;
-        int r = arrSize;
+        int low = 0;
+        int arraySize = arrSize;
         
-        while(l <= r){
-            int m = l + (r - 1) / 2;
+        while(low <= arraySize){
+            int m = low + (arraySize - 1) / 2;
             
             if(array[m] == x){
                 return m;
             }else if(array[m] < x){
-                l = m + 1;
+                low = m + 1;
             }else{
-                r = m - 1;
+                arraySize = m - 1;
             }
         }
         return -1;
