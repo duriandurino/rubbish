@@ -19,7 +19,7 @@ class Child extends Parent{
     //overriding run() on Parent
     @Override
     void run(){
-        System.out.println("nidagan kusog kay kiat");
+        System.out.println("nidagan nga pinalayat kay kiat");
     }
 
 }
