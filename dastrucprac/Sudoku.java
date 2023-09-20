@@ -64,7 +64,7 @@ public class Sudoku{
     }
     
     public static void main(String[] args){
-        int[][] sudoku = new int[9][9];
+        int[][] sudoku = new int[3][3];
         int row = 3;
         int col = 3;
 
