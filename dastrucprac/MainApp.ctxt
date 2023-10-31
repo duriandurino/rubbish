@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MainApp
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=time\ r
+comment2.target=void\ shedule(long,\ java.lang.Runnable)
+comment3.params=stage
+comment3.target=void\ start(javafx.stage.Stage)
+comment4.params=
+comment4.target=void\ spawnEnemies()
+comment5.params=gc
+comment5.target=void\ update(javafx.scene.canvas.GraphicsContext)
+numComments=6

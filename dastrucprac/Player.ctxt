@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=x\ y
+comment1.target=Player(double,\ double)
+comment2.params=
+comment2.target=double\ getX()
+comment3.params=
+comment3.target=double\ getY()
+comment4.params=
+comment4.target=int\ getHp()
+comment5.params=dmg
+comment5.target=void\ takeDamage(int)
+comment6.params=gc
+comment6.target=void\ render(javafx.scene.canvas.GraphicsContext)
+comment7.params=x\ y
+comment7.target=void\ move(double,\ double)
+comment8.params=x\ y
+comment8.target=void\ shoot(double,\ double)
+numComments=9

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Bullet
+comment1.params=angle\ x\ y
+comment1.target=Bullet(double,\ double,\ double)
+comment2.params=
+comment2.target=double\ getX()
+comment3.params=
+comment3.target=double\ getY()
+comment4.params=gc
+comment4.target=void\ render(javafx.scene.canvas.GraphicsContext)
+numComments=5
