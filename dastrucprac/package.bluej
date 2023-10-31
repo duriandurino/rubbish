@@ -2,6 +2,7 @@
 dependency1.from=RunVehicles
 dependency1.to=Vehicles
 dependency1.type=UsesDependency
+<<<<<<< HEAD
 dependency2.from=MainApp
 dependency2.to=Player
 dependency2.type=UsesDependency
@@ -23,20 +24,48 @@ dependency7.type=UsesDependency
 dependency8.from=Enemy
 dependency8.to=MainApp
 dependency8.type=UsesDependency
+=======
+<<<<<<< HEAD
+dependency2.from=Inherit
+dependency2.to=Honda
+dependency2.type=UsesDependency
+dependency3.from=Inherit
+dependency3.to=Toyota
+dependency3.type=UsesDependency
+dependency4.from=Inherit
+dependency4.to=Nissan
+dependency4.type=UsesDependency
+editor.fx.0.height=739
+editor.fx.0.width=816
+editor.fx.0.x=232
+editor.fx.0.y=10
+objectbench.height=102
+=======
+>>>>>>> ceb63257d2f782a19975c61149b958b09f768ee3
 editor.fx.0.height=739
 editor.fx.0.width=816
 editor.fx.0.x=266
 editor.fx.0.y=132
+<<<<<<< HEAD
 objectbench.height=66
 objectbench.width=1243
 package.divider.horizontal=0.6
 package.divider.vertical=0.9197802197802197
 package.editor.height=830
+=======
+objectbench.height=131
+>>>>>>> 6e7c40b83f92d0566c44b0d0ec37746ccfd40bf3
+objectbench.width=1256
+package.divider.horizontal=0.6
+package.divider.vertical=0.8486111111111111
+package.editor.height=604
+>>>>>>> ceb63257d2f782a19975c61149b958b09f768ee3
 package.editor.width=1153
 package.editor.x=0
 package.editor.y=0
-package.frame.height=1010
+package.frame.height=820
 package.frame.width=1296
+<<<<<<< HEAD
 package.numDependencies=8
 package.numTargets=15
 package.showExtends=true
@@ -44,8 +73,21 @@ package.showUses=true
 project.charset=UTF-8
 project.invoke.thread=FX
 readme.height=60
+=======
+<<<<<<< HEAD
+package.numDependencies=4
+package.numTargets=15
+=======
+package.numDependencies=1
+package.numTargets=11
+>>>>>>> 6e7c40b83f92d0566c44b0d0ec37746ccfd40bf3
+package.showExtends=true
+package.showUses=true
+project.charset=UTF-8
+readme.height=58
+>>>>>>> ceb63257d2f782a19975c61149b958b09f768ee3
 readme.name=@README
-readme.width=49
+readme.width=47
 readme.x=10
 readme.y=10
 target1.height=70
@@ -56,7 +98,110 @@ target1.width=120
 target1.x=180
 target1.y=740
 target10.height=70
+<<<<<<< HEAD
 target10.name=RunVehicles
+=======
+<<<<<<< HEAD
+target10.name=Sudoku
+target10.showInterface=false
+target10.type=ClassTarget
+target10.width=120
+target10.x=440
+target10.y=140
+target11.height=30
+target11.name=Toyota
+target11.showInterface=false
+target11.type=ClassTarget
+target11.width=80
+target11.x=370
+target11.y=590
+target12.height=70
+target12.name=nodeCount
+target12.showInterface=false
+target12.type=ClassTarget
+target12.width=120
+target12.x=140
+target12.y=140
+target13.height=70
+target13.name=Main
+target13.showInterface=false
+target13.type=ClassTarget
+target13.width=120
+target13.x=130
+target13.y=60
+target14.height=70
+target14.name=Inherit
+target14.showInterface=false
+target14.type=ClassTarget
+target14.width=120
+target14.x=80
+target14.y=510
+target15.height=30
+target15.name=Nissan
+target15.showInterface=false
+target15.type=ClassTarget
+target15.width=80
+target15.x=230
+target15.y=590
+target2.height=50
+target2.name=Abstract
+target2.showInterface=false
+target2.type=ClassTarget
+target2.width=80
+target2.x=10
+target2.y=80
+target3.height=70
+target3.name=LLNode
+target3.showInterface=false
+target3.type=ClassTarget
+target3.width=120
+target3.x=10
+target3.y=140
+target4.height=50
+target4.name=tiktaktow
+target4.showInterface=false
+target4.type=ClassTarget
+target4.width=80
+target4.x=10
+target4.y=220
+target5.height=30
+target5.name=Honda
+target5.showInterface=false
+target5.type=ClassTarget
+target5.width=80
+target5.x=300
+target5.y=590
+target6.height=70
+target6.name=binarySearchTest
+target6.showInterface=false
+target6.type=ClassTarget
+target6.width=130
+target6.x=320
+target6.y=60
+target7.height=70
+target7.name=Vehicles
+target7.showInterface=false
+target7.type=ClassTarget
+target7.width=120
+target7.x=301
+target7.y=259
+target8.height=70
+target8.name=RunVehicles
+target8.showInterface=false
+target8.type=ClassTarget
+target8.width=120
+target8.x=100
+target8.y=260
+target9.height=50
+target9.name=OOP
+target9.showInterface=false
+target9.type=ClassTarget
+target9.width=80
+target9.x=10
+target9.y=280
+=======
+target10.name=binarySearchTest
+>>>>>>> ceb63257d2f782a19975c61149b958b09f768ee3
 target10.showInterface=false
 target10.type=ClassTarget
 target10.width=120
@@ -151,5 +296,11 @@ target9.name=Vehicles
 target9.showInterface=false
 target9.type=ClassTarget
 target9.width=120
+<<<<<<< HEAD
 target9.x=301
 target9.y=259
+=======
+target9.x=130
+target9.y=60
+>>>>>>> 6e7c40b83f92d0566c44b0d0ec37746ccfd40bf3
+>>>>>>> ceb63257d2f782a19975c61149b958b09f768ee3
